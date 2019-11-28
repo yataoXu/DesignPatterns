@@ -13,10 +13,10 @@ public class BJPizzaFactory implements AbsFactory{
     @Override
     public Pizza createPizza(String pizzaType) {
         Pizza pizza = null;
-        if (pizzaType.equals("bjcheese")) {
+        if (pizzaType.equals("cheese")) {
             pizza = new BJCheesePizza();
             pizza.setName("bjcheese");
-        } else if (pizzaType.equals("bjpepper")) {
+        } else if (pizzaType.equals("pepper")) {
             pizza = new BJpepperPizza();
             pizza.setName("bjpepper");
         }

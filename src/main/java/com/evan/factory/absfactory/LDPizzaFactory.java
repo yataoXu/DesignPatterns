@@ -11,10 +11,10 @@ public class LDPizzaFactory implements AbsFactory {
     @Override
     public Pizza createPizza(String pizzaType) {
         Pizza pizza = null;
-        if (pizzaType.equals("ldcheese")) {
+        if (pizzaType.equals("cheese")) {
             pizza = new LDCheesePizza();
             pizza.setName("ldcheese");
-        } else if (pizzaType.equals("ldpepper")) {
+        } else if (pizzaType.equals("pepper")) {
             pizza = new LDpepperpizza();
             pizza.setName("ldpepper");
         }
