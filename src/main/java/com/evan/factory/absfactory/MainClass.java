@@ -10,5 +10,6 @@ public class MainClass {
 
     public static void main(String[] args) {
         new OrderPizza(new BJPizzaFactory());
+        new OrderPizza(new LDPizzaFactory());
     }
 }
