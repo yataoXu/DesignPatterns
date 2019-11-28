@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6753478f-c14a-4656-a25a-adb8b91dbd60" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/CheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/GreekPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/BJOrderPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/LDCheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/LDOrderPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/LDpepperpizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/OrderPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/Pizza.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/evan/singleton/Mgr03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/evan/singleton/Mgr03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/evan/singleton/Mgr04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/evan/singleton/Mgr04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/evan/singleton/Mgr05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/evan/singleton/Mgr05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/GreekPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/GreekPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/OrderPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/OrderPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/PizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/PizzaStore.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,105 +27,112 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/singleton/Mgr03.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/BJCheesePizza.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="19" column="29" selection-end-line="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/evan/singleton/TestSingleton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="623">
-              <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/Pizza.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+            <state relative-caret-position="242">
+              <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-end-line="12" />
               <folding>
-                <element signature="e#292#293#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
-                <element signature="e#408#409#0" expanded="true" />
-                <element signature="e#484#485#0" expanded="true" />
-                <element signature="e#451#452#0" expanded="true" />
-                <element signature="e#483#484#0" expanded="true" />
-                <element signature="e#514#515#0" expanded="true" />
-                <element signature="e#541#542#0" expanded="true" />
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/CheesePizza.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/LDCheesePizza.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/GreekPizza.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+            <state relative-caret-position="286">
+              <caret line="13" column="19" selection-start-line="13" selection-end-line="14" />
               <folding>
-                <element signature="e#213#214#0" expanded="true" />
-                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/PizzaStore.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/OrderPizza.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="275">
+              <caret line="24" column="4" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/OrderPizza2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-75">
+              <caret line="17" selection-start-line="17" selection-end-line="41" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/SimpleFactory2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="389">
+              <caret line="20" column="21" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="20" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/OrderPizza.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/BJOrderPizza.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="9" column="39" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/LDOrderPizza.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/OrderPizza.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/MainClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+            <state relative-caret-position="242">
+              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+              <folding>
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/singleton/Mgr05.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/BJpepperPizza.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="34" selection-end-line="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/singleton/Mgr04.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+            <state relative-caret-position="242">
+              <caret line="11" column="37" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -147,13 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/evan/singleton/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/evan/singleton/Mgr01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/evan/singleton/Mgr02.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/evan/singleton/Mgr07.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/evan/singleton/Mgr08.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/evan/singleton/Mgr06.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/evan/singleton/strategy/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/evan/strategy/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/evan/strategy/Sorter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/evan/strategy/BaiduNetDisk.java" />
@@ -188,8 +192,23 @@
         <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/CheesePizza.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/GreekPizza.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/MainClass.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/PizzaStore.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/OrderPizza.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/PizzaStore.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/SimpleFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/OrderPizza.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/PizzaStore.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/OrderPizza2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/SimpleFactory2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/Pizza.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/BJCheesePizza.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/BJBebberPizza.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/BJpepperPizza.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/LDCheesePizza.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/LDpepperpizza.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/LDOrderPizza.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/BJOrderPizza.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/OrderPizza.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/MainClass.java" />
       </list>
     </option>
   </component>
@@ -256,6 +275,26 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="evan" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="evan" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="factorymethod" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="evan" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
               <item name="simpleFactory" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -277,12 +316,19 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/evan" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.evan.factory.factorymethod" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -296,20 +342,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainClass">
-    <configuration name="Demeter1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.evan.inversion.Demeter1" />
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.evan.inversion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MainClass (1)">
     <configuration name="Demeter2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.evan.inversion.Demeter2" />
       <module name="DesignPatterns" />
@@ -323,25 +356,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DependecyInversion1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.evan.inversion.DependecyInversion1" />
+    <configuration name="MainClass (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.evan.factory.factorymethod.MainClass" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.evan.inversion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DependecyInversion2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.evan.inversion.DependecyInversion2" />
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.evan.inversion.*" />
+          <option name="PATTERN" value="com.evan.factory.factorymethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -362,13 +382,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PizzaStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.evan.factory.simpleFactory.PizzaStore" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.evan.factory.simpleFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PizzaStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.evan.factory.simpleFactory.PizzaStore" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.evan.factory.simpleFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainClass (1)" />
+        <item itemvalue="Application.PizzaStore (1)" />
+        <item itemvalue="Application.PizzaStore" />
         <item itemvalue="Application.MainClass" />
         <item itemvalue="Application.Demeter2" />
-        <item itemvalue="Application.Demeter1" />
-        <item itemvalue="Application.DependecyInversion2" />
-        <item itemvalue="Application.DependecyInversion1" />
       </list>
     </recent_temporary>
   </component>
@@ -387,6 +433,7 @@
       <workItem from="1574693188062" duration="3093000" />
       <workItem from="1574774802151" duration="5101000" />
       <workItem from="1574861077318" duration="4424000" />
+      <workItem from="1574943546029" duration="6424000" />
     </task>
     <task id="LOCAL-00001" summary="simplefactory">
       <created>1574869740295</created>
@@ -399,21 +446,21 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26009000" />
+    <option name="totallyTimeSpent" value="32433000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="463" y="5" width="1382" height="744" extended-state="0" />
+    <frame x="-11" y="0" width="1382" height="747" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.1295082" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.39477977" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3980424" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -455,17 +502,16 @@
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/OrderPizza.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/singleton/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/singleton/Mgr02.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -682,66 +728,152 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/singleton/Mgr03.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
+        <state relative-caret-position="418">
           <caret line="19" column="29" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/singleton/Mgr04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/singleton/Mgr05.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="34" selection-end-line="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/evan/singleton/TestSingleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="623">
+        <state relative-caret-position="1034">
           <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/GreekPizza.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/singleton/Mgr05.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
-          <folding>
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="748">
+          <caret line="34" selection-end-line="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/Pizza.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/singleton/Mgr04.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
-          <folding>
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
-            <element signature="e#514#515#0" expanded="true" />
-            <element signature="e#541#542#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="638">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/modules.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MODULES</ID>
+          <OriginalElement />
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-246.0" y="-40.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Libraries</Category>
+            <Category>Test dependencies</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.evan.factory.simpleFactory.PizzaStore">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.evan.factory.simpleFactory.PizzaStore</OriginalElement>
+          <nodes>
+            <node x="51.64166666666662" y="408.0">com.evan.factory.simpleFactory.OrderPizza</node>
+            <node x="158.49999999999997" y="198.0">com.evan.factory.simpleFactory.CheesePizza</node>
+            <node x="104.14999999999998" y="0.0">com.evan.factory.simpleFactory.Pizza</node>
+            <node x="10.499999999999972" y="198.0">com.evan.factory.simpleFactory.GreekPizza</node>
+            <node x="125.80833333333331" y="303.0">com.evan.factory.simpleFactory.SimpleFactory</node>
+            <node x="140.43333333333328" y="608.0">com.evan.factory.simpleFactory.PizzaStore</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.evan.factory.simpleFactory.SimpleFactory" target="com.evan.factory.simpleFactory.CheesePizza">
+              <point x="2.8421709430404007E-14" y="-27.5" />
+              <point x="217.80833333333334" y="278.0" />
+              <point x="222.49999999999997" y="278.0" />
+              <point x="0.0" y="27.5" />
+            </edge>
+            <edge source="com.evan.factory.simpleFactory.SimpleFactory" target="com.evan.factory.simpleFactory.GreekPizza">
+              <point x="-61.333333333333314" y="-27.5" />
+              <point x="156.475" y="278.0" />
+              <point x="74.49999999999997" y="278.0" />
+              <point x="0.0" y="27.5" />
+            </edge>
+            <edge source="com.evan.factory.simpleFactory.CheesePizza" target="com.evan.factory.simpleFactory.Pizza">
+              <point x="0.0" y="-27.5" />
+              <point x="222.49999999999997" y="178.0" />
+              <point x="182.89999999999998" y="178.0" />
+              <point x="15.75" y="74.0" />
+            </edge>
+            <edge source="com.evan.factory.simpleFactory.OrderPizza" target="com.evan.factory.simpleFactory.SimpleFactory">
+              <point x="0.0" y="-75.0" />
+              <point x="-61.33333333333334" y="27.5" />
+            </edge>
+            <edge source="com.evan.factory.simpleFactory.GreekPizza" target="com.evan.factory.simpleFactory.Pizza">
+              <point x="0.0" y="-27.5" />
+              <point x="74.49999999999997" y="178.0" />
+              <point x="151.39999999999998" y="178.0" />
+              <point x="-15.75" y="74.0" />
+            </edge>
+            <edge source="com.evan.factory.simpleFactory.OrderPizza" target="com.evan.factory.simpleFactory.Pizza">
+              <point x="-69.66666666666669" y="-75.0" />
+              <point x="86.47499999999994" y="383.0" />
+              <point x="0.0" y="383.0" />
+              <point x="0.0" y="168.0" />
+              <point x="119.89999999999998" y="168.0" />
+              <point x="-47.25" y="74.0" />
+            </edge>
+            <edge source="com.evan.factory.simpleFactory.PizzaStore" target="com.evan.factory.simpleFactory.OrderPizza">
+              <point x="-49.66666666666666" y="-27.5" />
+              <point x="165.26666666666662" y="583.0" />
+              <point x="103.89166666666662" y="583.0" />
+              <point x="-52.25" y="75.0" />
+            </edge>
+            <edge source="com.evan.factory.simpleFactory.PizzaStore" target="com.evan.factory.simpleFactory.SimpleFactory">
+              <point x="49.66666666666668" y="-27.5" />
+              <point x="264.59999999999997" y="583.0" />
+              <point x="271.14166666666665" y="583.0" />
+              <point x="271.14166666666665" y="383.0" />
+              <point x="279.14166666666665" y="383.0" />
+              <point x="61.33333333333335" y="27.5" />
+            </edge>
+            <edge source="com.evan.factory.simpleFactory.SimpleFactory" target="com.evan.factory.simpleFactory.Pizza">
+              <point x="61.33333333333335" y="-27.5" />
+              <point x="279.14166666666665" y="278.0" />
+              <point x="297.0" y="278.0" />
+              <point x="297.0" y="168.0" />
+              <point x="214.39999999999998" y="168.0" />
+              <point x="47.25" y="74.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.9033816425120774" x="-220.9960110103189" y="259.9982506969879" />
+          <SelectedNodes>
+            <node>com.evan.factory.simpleFactory.GreekPizza</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/SimpleFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -752,17 +884,157 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/factorymethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/GreekPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/PizzaStore.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/LDpepperpizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/OrderPizza.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        <state relative-caret-position="275">
+          <caret line="24" column="4" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/OrderPizza2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75">
+          <caret line="17" selection-start-line="17" selection-end-line="41" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/SimpleFactory2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="20" column="21" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/BJCheesePizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-end-line="12" />
+          <folding>
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/BJpepperPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="37" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/LDCheesePizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="19" selection-start-line="13" selection-end-line="14" />
+          <folding>
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/LDOrderPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/BJOrderPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/OrderPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

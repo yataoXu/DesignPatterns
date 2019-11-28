@@ -1,5 +1,8 @@
 package com.evan.factory.simpleFactory;
 
+import com.evan.factory.simpleFactory.OrderPizza2;
+import com.evan.factory.simpleFactory.SimpleFactory;
+
 /**
  * @Description
  * @ClassName MainClass
@@ -8,7 +11,6 @@ package com.evan.factory.simpleFactory;
  */
 public class PizzaStore {
     public static void main(String[] args) {
-
-
+         new OrderPizza2();
     }
 }
