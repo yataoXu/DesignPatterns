@@ -4,18 +4,18 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @Description
+ * @Description 院校里面有很多专业
  * @ClassName College
  * @Author Evan
  * @date 2019.12.04 22:38
  */
-public class College extends OrganizationComponent{
+public class College extends OrganizationComponent {
 
     List<OrganizationComponent> organizationComponents = new ArrayList<OrganizationComponent>();
 
 
     // 构造器
-    public College(String name, String desc){
+    public College(String name, String desc) {
         super(name, desc);
     }
 
@@ -44,8 +44,8 @@ public class College extends OrganizationComponent{
     // 就是输出University包含的学院
     @Override
     protected void print() {
-        System.out.println("---------"+getName()+"-----------------");
-        for (OrganizationComponent organizationComponent:organizationComponents){
+        System.out.println("---------" + getName() + "-----------------");
+        for (OrganizationComponent organizationComponent : organizationComponents) {
             organizationComponent.print();
         }
     }
