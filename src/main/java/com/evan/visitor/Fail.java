@@ -1,13 +1,13 @@
 package com.evan.visitor;
 
-public class Fail extends Action  {
+public class Fail extends Action {
     @Override
     public void getManResult(Man man) {
-        System.out.println("男人给的评价是失败");
+        System.out.println(man.getName() + "男士给的评价是失败");
     }
 
     @Override
     public void getWomanResult(Woman woman) {
-        System.out.println("女人给的评价是失败");
+        System.out.println(woman.getName() + "女士给的评价是失败");
     }
 }
