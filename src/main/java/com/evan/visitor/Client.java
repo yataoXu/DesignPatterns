@@ -10,9 +10,5 @@ public class Client {
 
         Success success = new Success();
         objectStructure.display(success);
-
-
-
-
     }
 }
