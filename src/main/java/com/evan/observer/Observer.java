@@ -8,6 +8,6 @@ package com.evan.observer;
  */
 public interface Observer {
 
-    public void update();
+    public void update(float temperature,float preference, float humidity);
 
 }
