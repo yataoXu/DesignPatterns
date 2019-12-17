@@ -1,9 +1,5 @@
 package com.evan.iterator;
 
-import com.sun.corba.se.pept.transport.ContactInfo;
-import com.sun.corba.se.pept.transport.ContactInfoList;
-import com.sun.corba.se.pept.transport.ContactInfoListIterator;
-
 import java.util.Iterator;
 
 public class ComputerCollege implements College {
