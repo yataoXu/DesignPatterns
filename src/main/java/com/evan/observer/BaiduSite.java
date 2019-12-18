@@ -6,7 +6,7 @@ package com.evan.observer;
  * @Author Evan
  * @date 2019.12.17 23:04
  */
-public class Baidu implements Observer {
+public class BaiduSite implements Observer {
     private float temperature;
     private float preference;
     private float humidity;

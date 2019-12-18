@@ -3,7 +3,10 @@ package com.evan.observer;
 import java.util.ArrayList;
 
 /**
- * @Description
+ * @Description 观察者的核心类
+ * 1. 包含最新的天气情况信息
+ * 2. 含有 观察者集合，使用arrayList管理
+ * 3. 当数据有更新时，就主动的调用arrayList,通知所有的订阅者
  * @ClassName WeatherData
  * @Author Evan
  * @date 2019.12.17 23:03
@@ -22,29 +25,6 @@ public class WeatherData implements Subject {
         observers = new ArrayList<Observer>();
     }
 
-    public float getTemperature() {
-        return temperature;
-    }
-
-    public void setTemperature(float temperature) {
-        this.temperature = temperature;
-    }
-
-    public float getPreference() {
-        return preference;
-    }
-
-    public void setPreference(float preference) {
-        this.preference = preference;
-    }
-
-    public float getHumidity() {
-        return humidity;
-    }
-
-    public void setHumidity(float humidity) {
-        this.humidity = humidity;
-    }
 
     public void dataChange() {
         // 调用 接入方update
