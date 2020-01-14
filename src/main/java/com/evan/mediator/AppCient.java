@@ -13,7 +13,7 @@ public class AppCient {
         CoffeeMachine coffeeMachine = new CoffeeMachine(mediator,
                 "coffeeMachine");
 
-        //创建 Curtains , 并  且加入到  ConcreteMediator 对象的HashMap
+        //创建 Curtains , 并且加入到  ConcreteMediator 对象的HashMap
         Curtains curtains = new Curtains(mediator, "curtains");
         TV tV = new TV(mediator, "TV");
 
