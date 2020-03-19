@@ -1,7 +1,5 @@
 //package com.evan.inversion;
 //
-//import java.util.Properties;
-//
 ///**
 // * @Description
 // * @ClassName DependecyInversion1
@@ -15,7 +13,7 @@
 //    }
 //}
 //
-//class Email {
+//class Email1 {
 //    public String getInfo() {
 //        return "电子邮件: hello world";
 //    }
