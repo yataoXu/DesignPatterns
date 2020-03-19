@@ -1,4 +1,4 @@
-package com.evan.Liskov;
+package com.evan.liskov;
 
 public class Liskov {
     public static void main(String[] args) {
