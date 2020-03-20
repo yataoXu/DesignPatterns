@@ -10,6 +10,18 @@ import org.junit.Test;
  */
 public class TestSingleton {
 
+
+
+    @Test
+    public void test01(){
+        for (int i = 0; i < 100; i++) {
+            new Thread(()->{
+                System.out.println(Mgr03.getInstance().hashCode());
+            }).start();
+        }
+    }
+
+
     @Test
     public void testMgr03() {
         for (int i = 0; i < 100; i++) {
@@ -21,8 +33,8 @@ public class TestSingleton {
         }
     }
 
-    // 线程A getInstance()  发现没有实例于是执行Instance = new Mgr03();转载资源ing
-    // 线程B getInstance()  发现没有实例于是执行Instance = new Mgr03();
+    // 线程A getInstance()  发现没有实例,于是执行Instance = new Mgr03(); sleeping 3 sec
+    // 线程B getInstance()  发现没有实例,于是执行Instance = new Mgr03();
     // 这个时候内存中就会有两个不同的实例
 
 
@@ -47,6 +59,9 @@ public class TestSingleton {
             ).start();
         }
     }
+
+
+
 }
 
 

@@ -16,11 +16,6 @@ public class Mgr03 {
     public static Mgr03 getInstance() {
 
         if (Instance == null) {
-            try {
-                Thread.sleep(100);
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            }
             Instance = new Mgr03();
         }
         return Instance;
