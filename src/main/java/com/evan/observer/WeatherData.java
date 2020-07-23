@@ -3,6 +3,8 @@ package com.evan.observer;
 import java.util.ArrayList;
 
 /**
+ * 具体主题（具体被观察者），该角色将有关状态存入具体观察者对象，在具体主题的内部状态发生改变时，给所有注册过的观察者发送通知。
+ *
  * @Description 观察者的核心类
  * 1. 包含最新的天气情况信息
  * 2. 含有 观察者集合，使用arrayList管理

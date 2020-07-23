@@ -1,7 +1,7 @@
 package com.evan.observer;
 
 /**
- * @Description
+ * @Description Observer 抽象观察者，是观察者者的抽象类，它定义了一个更新接口，使得在得到主题更改通知时更新自己。
  * @ClassName Observer
  * @Author Evan
  * @date 2019.12.17 23:02

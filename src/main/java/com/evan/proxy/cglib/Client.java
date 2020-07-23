@@ -8,7 +8,7 @@ public class Client {
 
         TeacherDao  teacherDao = (TeacherDao) proxy.getProxyInstance();
 
-        // class com.sun.proxy.$Proxy0 内存中动态生成了代理对象
+        // class com.evan.proxy.cglib.TeacherDao$$EnhancerByCGLIB$$e7e75d26
         System.out.println(teacherDao.getClass());
         
         teacherDao.teacher();

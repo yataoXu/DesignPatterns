@@ -1,29 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../juc/src/main/java/com/evan/core/listsource/LinkedhashMapDemo.java" description="Map&lt;String, String&gt; map = new LinkedHashMap&lt;&gt;();" line="12" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6753478f-c14a-4656-a25a-adb8b91dbd60" name="Default Changelist" comment="factorymetod">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/adapter/classAdapter/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/adapter/classAdapter/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/adapter/classAdapter/Voltage220V.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/adapter/classAdapter/Voltage5V.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/adapter/classAdapter/VoltageAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/adapter/interfaceAdapter/AbsAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/adapter/interfaceAdapter/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/adapter/interfaceAdapter/Interface4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/adapter/objectAdapter/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/adapter/objectAdapter/VoltageAdapter2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/adapter/springmvcSouce/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/adapter/springmvcSouce/DispatchServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/adapter/springmvcSouce/HandlerAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/builder/demo/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/builder/demo/CommonHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/builder/improve/Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/builder/improve/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/builder/improve/CommonHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/builder/improve/HighBUilding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/builder/improve/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/builder/improve/HouseDiector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/decorator/other/DrinkComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/decorator/other/DrinkDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/decorator/other/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/decorator/other/SugarDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/decorator/other/TeaDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/decorator/other/WaterComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/evan/state/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/evan/observer/BaiduSite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/observer/BaiduSite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/evan/observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/observer/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/evan/observer/SinaSite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/observer/SinaSite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/evan/observer/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/observer/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/evan/observer/WeatherData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/observer/WeatherData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/evan/proxy/cglib/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/proxy/cglib/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/evan/singleton/Mgr03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/evan/singleton/Mgr03.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -39,127 +36,97 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/adapter/objectAdapter/VoltageAdapter2.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/brige/FolderPhone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="31" />
+            <state relative-caret-position="176">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/builder/demo/AbstractHouse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/builder/demo/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/builder/demo/CommonHouse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#425#426#0" expanded="true" />
+                <element signature="e#215#216#0" expanded="true" />
+                <element signature="e#260#261#0" expanded="true" />
+                <element signature="e#306#307#0" expanded="true" />
+                <element signature="e#350#351#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/adapter/objectAdapter/Client.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/observer/BaiduSite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="66">
+              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/adapter/interfaceAdapter/Interface4.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/observer/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            <state relative-caret-position="154">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/adapter/interfaceAdapter/AbsAdapter.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/observer/WeatherData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/adapter/interfaceAdapter/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-              <folding>
-                <element signature="e#406#407#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/adapter/springmvcSouce/Controller.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-              <folding>
-                <element signature="e#263#264#0" expanded="true" />
-                <element signature="e#308#309#0" expanded="true" />
-                <element signature="e#395#396#0" expanded="true" />
-                <element signature="e#442#443#0" expanded="true" />
-                <element signature="e#536#537#0" expanded="true" />
-                <element signature="e#587#588#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/adapter/springmvcSouce/HandlerAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-              <folding>
-                <element signature="e#384#385#0" expanded="true" />
-                <element signature="e#447#448#0" expanded="true" />
-                <element signature="e#494#495#0" expanded="true" />
-                <element signature="e#554#555#0" expanded="true" />
-                <element signature="e#653#654#0" expanded="true" />
-                <element signature="e#711#712#0" expanded="true" />
-                <element signature="e#758#759#0" expanded="true" />
-                <element signature="e#816#817#0" expanded="true" />
-                <element signature="e#921#922#0" expanded="true" />
-                <element signature="e#991#992#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="286">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/adapter/springmvcSouce/DispatchServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#292#308#0" expanded="true" />
-                <element signature="e#1331#1332#0" expanded="true" />
-                <element signature="e#1392#1393#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/adapter/classAdapter/Phone.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="16" column="9" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/adapter/classAdapter/Client.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/observer/SinaSite.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-line="14" />
+              <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/observer/Subject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/observer/Observer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -188,21 +155,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/OrderPizza.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/PizzaStore.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/OrderPizza2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/SimpleFactory2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/Pizza.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/BJCheesePizza.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/BJBebberPizza.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/BJpepperPizza.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/LDCheesePizza.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/LDpepperpizza.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/LDOrderPizza.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/BJOrderPizza.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/MainClass.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/absfactory/AbsFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/absfactory/BJOrderPizza.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/absfactory/LDpepperpizza.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/absfactory/LDOrderPizza.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/evan/factory/absfactory/OrderPizza.java" />
@@ -239,6 +191,21 @@
         <option value="$PROJECT_DIR$/src/main/java/com/evan/adapter/springmvcSouce/Controller.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/evan/adapter/springmvcSouce/HandlerAdapter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/evan/adapter/springmvcSouce/DispatchServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/evan/decorator/other/DrinkComponent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/evan/decorator/other/MainClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/evan/decorator/other/WaterComponent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/evan/decorator/other/TeaDecorator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/evan/decorator/other/DrinkDecorator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/evan/decorator/other/SugarDecorator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/evan/proxy/dynamicproxy/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/evan/proxy/cglib/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/evan/state/Cliet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/evan/state/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/evan/observer/Subject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/evan/observer/Observer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/evan/observer/BaiduSite.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/evan/observer/SinaSite.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/evan/observer/WeatherData.java" />
       </list>
     </option>
   </component>
@@ -255,6 +222,17 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="DesignPatterns" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="413" />
     <option name="y" value="-12" />
@@ -269,6 +247,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -319,7 +299,44 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="evan" type="462c0819:PsiDirectoryNode" />
               <item name="adapter" type="462c0819:PsiDirectoryNode" />
-              <item name="springmvcSouce" type="462c0819:PsiDirectoryNode" />
+              <item name="classAdapter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="evan" type="462c0819:PsiDirectoryNode" />
+              <item name="brige" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="evan" type="462c0819:PsiDirectoryNode" />
+              <item name="builder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="evan" type="462c0819:PsiDirectoryNode" />
+              <item name="builder" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="evan" type="462c0819:PsiDirectoryNode" />
+              <item name="observer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
@@ -331,8 +348,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -370,13 +385,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DispatchServlet">
+  <component name="RunManager" selected="Application.QuickSort">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.evan.builder.improve.Client" />
+      <option name="MAIN_CLASS_NAME" value="com.evan.proxy.cglib.Client" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.evan.builder.improve.*" />
+          <option name="PATTERN" value="com.evan.proxy.cglib.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -384,12 +399,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.evan.adapter.classAdapter.Client" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.evan.proxy.dynamicproxy.Client" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.evan.adapter.classAdapter.*" />
+          <option name="PATTERN" value="com.evan.proxy.dynamicproxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -397,12 +412,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.evan.adapter.objectAdapter.Client" />
+    <configuration name="Cliet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.evan.state.Cliet" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.evan.adapter.objectAdapter.*" />
+          <option name="PATTERN" value="com.evan.state.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -410,12 +425,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.evan.adapter.interfaceAdapter.Client" />
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.evan.decorator.other.MainClass" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.evan.adapter.interfaceAdapter.*" />
+          <option name="PATTERN" value="com.evan.decorator.other.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -423,12 +438,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DispatchServlet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.evan.adapter.springmvcSouce.DispatchServlet" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.evan.state.QuickSort" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.evan.adapter.springmvcSouce.*" />
+          <option name="PATTERN" value="com.evan.state.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -438,11 +453,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DispatchServlet" />
-        <item itemvalue="Application.Client (4)" />
-        <item itemvalue="Application.Client (3)" />
-        <item itemvalue="Application.Client (2)" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.Cliet" />
         <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.MainClass" />
       </list>
     </recent_temporary>
   </component>
@@ -466,6 +481,12 @@
       <workItem from="1575047379219" duration="1349000" />
       <workItem from="1575091608780" duration="2866000" />
       <workItem from="1575180856502" duration="5263000" />
+      <workItem from="1586506853777" duration="1795000" />
+      <workItem from="1586576824486" duration="590000" />
+      <workItem from="1586660540864" duration="1532000" />
+      <workItem from="1586744198638" duration="9130000" />
+      <workItem from="1586845043726" duration="1203000" />
+      <workItem from="1586846634358" duration="4657000" />
     </task>
     <task id="LOCAL-00001" summary="simplefactory">
       <created>1574869740295</created>
@@ -506,20 +527,20 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47474000" />
+    <option name="totallyTimeSpent" value="66381000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18986385" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18381241" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.30819672" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.42786884" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3967213" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -530,13 +551,14 @@
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.5" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Statistic" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="aiXcoder" order="4" />
       <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32980332" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
@@ -579,643 +601,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/OrderPizza2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-75">
-          <caret line="17" selection-start-line="17" selection-end-line="41" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/simpleFactory/SimpleFactory2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="20" column="21" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="20" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/absfactory/BJCheesePizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/absfactory/BJpepperPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/absfactory/LDCheesePizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/absfactory/LDpepperpizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="26" />
-          <folding>
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/absfactory/Pizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-          <folding>
-            <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.evan.factory.absfactory.MainClass">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.evan.factory.absfactory.MainClass</OriginalElement>
-          <nodes>
-            <node x="311.0" y="218.0">com.evan.factory.absfactory.AbsFactory</node>
-            <node x="450.7532051282051" y="510.0">com.evan.factory.absfactory.MainClass</node>
-            <node x="156.0" y="218.0">com.evan.factory.absfactory.LDpepperpizza</node>
-            <node x="93.00320512820508" y="369.0">com.evan.factory.absfactory.LDPizzaFactory</node>
-            <node x="0.0" y="218.0">com.evan.factory.absfactory.LDCheesePizza</node>
-            <node x="350.375" y="333.0">com.evan.factory.absfactory.OrderPizza</node>
-            <node x="747.0384615384614" y="218.0">com.evan.factory.absfactory.BJpepperPizza</node>
-            <node x="592.0384615384614" y="218.0">com.evan.factory.absfactory.BJCheesePizza</node>
-            <node x="558.2403846153845" y="369.0">com.evan.factory.absfactory.BJPizzaFactory</node>
-            <node x="389.75" y="0.0">com.evan.factory.absfactory.Pizza</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.evan.factory.absfactory.BJPizzaFactory" target="com.evan.factory.absfactory.BJpepperPizza">
-              <point x="68.25" y="-27.5" />
-              <point x="717.4903846153845" y="313.0" />
-              <point x="814.5384615384614" y="313.0" />
-              <point x="0.0" y="27.5" />
-            </edge>
-            <edge source="com.evan.factory.absfactory.BJPizzaFactory" target="com.evan.factory.absfactory.Pizza">
-              <point x="-22.75" y="-27.5" />
-              <point x="626.4903846153845" y="293.0" />
-              <point x="581.5384615384614" y="293.0" />
-              <point x="581.5384615384614" y="188.0" />
-              <point x="476.375" y="188.0" />
-              <point x="23.625" y="74.0" />
-            </edge>
-            <edge source="com.evan.factory.absfactory.OrderPizza" target="com.evan.factory.absfactory.AbsFactory">
-              <point x="0.0" y="-63.5" />
-              <point x="441.375" y="313.0" />
-              <point x="424.75" y="313.0" />
-              <point x="22.75" y="27.5" />
-            </edge>
-            <edge source="com.evan.factory.absfactory.BJCheesePizza" target="com.evan.factory.absfactory.Pizza">
-              <point x="0.0" y="-27.5" />
-              <point x="659.5384615384614" y="178.0" />
-              <point x="492.125" y="178.0" />
-              <point x="39.375" y="74.0" />
-            </edge>
-            <edge source="com.evan.factory.absfactory.BJPizzaFactory" target="com.evan.factory.absfactory.BJCheesePizza">
-              <point x="22.75" y="-27.5" />
-              <point x="671.9903846153845" y="313.0" />
-              <point x="659.5384615384614" y="313.0" />
-              <point x="0.0" y="27.5" />
-            </edge>
-            <edge source="com.evan.factory.absfactory.AbsFactory" target="com.evan.factory.absfactory.Pizza">
-              <point x="0.0" y="-27.5" />
-              <point x="402.0" y="198.0" />
-              <point x="444.875" y="198.0" />
-              <point x="-7.875" y="74.0" />
-            </edge>
-            <edge source="com.evan.factory.absfactory.LDpepperpizza" target="com.evan.factory.absfactory.Pizza">
-              <point x="0.0" y="-27.5" />
-              <point x="223.5" y="188.0" />
-              <point x="429.125" y="188.0" />
-              <point x="-23.625" y="74.0" />
-            </edge>
-            <edge source="com.evan.factory.absfactory.BJPizzaFactory" target="com.evan.factory.absfactory.AbsFactory">
-              <point x="-68.25" y="-27.5" />
-              <point x="580.9903846153845" y="303.0" />
-              <point x="470.25" y="303.0" />
-              <point x="68.25" y="27.5" />
-            </edge>
-            <edge source="com.evan.factory.absfactory.OrderPizza" target="com.evan.factory.absfactory.Pizza">
-              <point x="60.666666666666686" y="-63.5" />
-              <point x="502.04166666666663" y="313.0" />
-              <point x="518.2051282051282" y="313.0" />
-              <point x="518.2051282051282" y="198.0" />
-              <point x="460.625" y="198.0" />
-              <point x="7.875" y="74.0" />
-            </edge>
-            <edge source="com.evan.factory.absfactory.MainClass" target="com.evan.factory.absfactory.OrderPizza">
-              <point x="-37.25" y="-27.5" />
-              <point x="488.0032051282051" y="485.0" />
-              <point x="441.375" y="485.0" />
-              <point x="0.0" y="63.5" />
-            </edge>
-            <edge source="com.evan.factory.absfactory.MainClass" target="com.evan.factory.absfactory.BJPizzaFactory">
-              <point x="37.25" y="-27.5" />
-              <point x="562.5032051282051" y="485.0" />
-              <point x="649.2403846153845" y="485.0" />
-              <point x="0.0" y="27.5" />
-            </edge>
-            <edge source="com.evan.factory.absfactory.BJpepperPizza" target="com.evan.factory.absfactory.Pizza">
-              <point x="0.0" y="-27.5" />
-              <point x="814.5384615384614" y="168.0" />
-              <point x="507.875" y="168.0" />
-              <point x="55.125" y="74.0" />
-            </edge>
-            <edge source="com.evan.factory.absfactory.LDPizzaFactory" target="com.evan.factory.absfactory.Pizza">
-              <point x="-22.75" y="-27.5" />
-              <point x="161.25320512820508" y="313.0" />
-              <point x="145.5" y="313.0" />
-              <point x="145.5" y="178.0" />
-              <point x="413.375" y="178.0" />
-              <point x="-39.375" y="74.0" />
-            </edge>
-            <edge source="com.evan.factory.absfactory.LDPizzaFactory" target="com.evan.factory.absfactory.LDCheesePizza">
-              <point x="-68.25" y="-27.5" />
-              <point x="115.75320512820508" y="313.0" />
-              <point x="67.5" y="313.0" />
-              <point x="0.0" y="27.5" />
-            </edge>
-            <edge source="com.evan.factory.absfactory.LDPizzaFactory" target="com.evan.factory.absfactory.AbsFactory">
-              <point x="68.25" y="-27.5" />
-              <point x="252.25320512820508" y="313.0" />
-              <point x="333.75" y="313.0" />
-              <point x="-68.25" y="27.5" />
-            </edge>
-            <edge source="com.evan.factory.absfactory.LDCheesePizza" target="com.evan.factory.absfactory.Pizza">
-              <point x="0.0" y="-27.5" />
-              <point x="67.5" y="168.0" />
-              <point x="397.625" y="168.0" />
-              <point x="-55.125" y="74.0" />
-            </edge>
-            <edge source="com.evan.factory.absfactory.LDPizzaFactory" target="com.evan.factory.absfactory.LDpepperpizza">
-              <point x="22.75" y="-27.5" />
-              <point x="206.75320512820508" y="313.0" />
-              <point x="223.5" y="313.0" />
-              <point x="0.0" y="27.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.9025641025641026" x="155.0" y="256.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/absfactory/MainClass.png" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/absfactory/OrderPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="568">
-          <caret line="28" column="24" selection-start-line="28" selection-end-line="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/BJCheesePizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="29" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/Pizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/LDpepperpizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/LDCheesePizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="19" selection-start-line="12" selection-start-column="25" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.evan.factory.absfactory.AbsFactory">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.evan.factory.absfactory.AbsFactory</OriginalElement>
-          <nodes>
-            <node x="354.46634615384613" y="276.0">com.evan.factory.absfactory.MainClass</node>
-            <node x="336.3589743589743" y="102.0">com.evan.factory.absfactory.AbsFactory</node>
-            <node x="0.0" y="102.0">com.evan.factory.absfactory.LDpepperpizza</node>
-            <node x="179.69230769230765" y="194.0">com.evan.factory.absfactory.LDPizzaFactory</node>
-            <node x="156.99999999999997" y="102.0">com.evan.factory.absfactory.LDCheesePizza</node>
-            <node x="357.0" y="194.0">com.evan.factory.absfactory.OrderPizza</node>
-            <node x="529.9663461538462" y="102.0">com.evan.factory.absfactory.BJpepperPizza</node>
-            <node x="686.9663461538462" y="102.0">com.evan.factory.absfactory.BJCheesePizza</node>
-            <node x="505.0" y="194.0">com.evan.factory.absfactory.BJPizzaFactory</node>
-            <node x="386.4759615384615" y="0.0">com.evan.factory.absfactory.Pizza</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.evan.factory.absfactory.BJPizzaFactory" target="com.evan.factory.absfactory.BJpepperPizza">
-              <point x="18.0" y="-16.0" />
-              <point x="595.0" y="174.0" />
-              <point x="598.4663461538462" y="174.0" />
-              <point x="0.0" y="16.0" />
-            </edge>
-            <edge source="com.evan.factory.absfactory.BJPizzaFactory" target="com.evan.factory.absfactory.Pizza">
-              <point x="-18.0" y="-16.0" />
-              <point x="559.0" y="154.0" />
-              <point x="519.4663461538462" y="154.0" />
-              <point x="519.4663461538462" y="72.0" />
-              <point x="442.1634615384615" y="72.0" />
-              <point x="15.1875" y="16.0" />
-            </edge>
-            <edge source="com.evan.factory.absfactory.OrderPizza" target="com.evan.factory.absfactory.AbsFactory">
-              <point x="0.0" y="-16.0" />
-              <point x="415.0" y="174.0" />
-              <point x="408.8589743589743" y="174.0" />
-              <point x="14.5" y="16.0" />
-            </edge>
-            <edge source="com.evan.factory.absfactory.BJCheesePizza" target="com.evan.factory.absfactory.Pizza">
-              <point x="0.0" y="-16.0" />
-              <point x="755.4663461538462" y="52.0" />
-              <point x="462.4134615384615" y="52.0" />
-              <point x="35.4375" y="16.0" />
-            </edge>
-            <edge source="com.evan.factory.absfactory.BJPizzaFactory" target="com.evan.factory.absfactory.BJCheesePizza">
-              <point x="54.0" y="-16.0" />
-              <point x="631.0" y="174.0" />
-              <point x="755.4663461538462" y="174.0" />
-              <point x="0.0" y="16.0" />
-            </edge>
-            <edge source="com.evan.factory.absfactory.MainClass" target="com.evan.factory.absfactory.LDPizzaFactory">
-              <point x="-36.33333333333337" y="-16.0" />
-              <point x="372.63301282051276" y="251.0" />
-              <point x="251.69230769230765" y="251.0" />
-              <point x="0.0" y="16.0" />
-            </edge>
-            <edge source="com.evan.factory.absfactory.AbsFactory" target="com.evan.factory.absfactory.Pizza">
-              <point x="0.0" y="-16.0" />
-              <point x="394.3589743589743" y="82.0" />
-              <point x="421.9134615384615" y="82.0" />
-              <point x="-5.0625" y="16.0" />
-            </edge>
-            <edge source="com.evan.factory.absfactory.LDpepperpizza" target="com.evan.factory.absfactory.Pizza">
-              <point x="0.0" y="-16.0" />
-              <point x="68.5" y="52.0" />
-              <point x="391.5384615384615" y="52.0" />
-              <point x="-35.4375" y="16.0" />
-            </edge>
-            <edge source="com.evan.factory.absfactory.BJPizzaFactory" target="com.evan.factory.absfactory.AbsFactory">
-              <point x="-54.0" y="-16.0" />
-              <point x="523.0" y="164.0" />
-              <point x="437.8589743589743" y="164.0" />
-              <point x="43.5" y="16.0" />
-            </edge>
-            <edge source="com.evan.factory.absfactory.OrderPizza" target="com.evan.factory.absfactory.Pizza">
-              <point x="38.666666666666686" y="-16.0" />
-              <point x="453.66666666666663" y="174.0" />
-              <point x="475.2964743589743" y="174.0" />
-              <point x="475.2964743589743" y="82.0" />
-              <point x="432.0384615384615" y="82.0" />
-              <point x="5.0625" y="16.0" />
-            </edge>
-            <edge source="com.evan.factory.absfactory.MainClass" target="com.evan.factory.absfactory.OrderPizza">
-              <point x="0.0" y="-16.0" />
-              <point x="408.96634615384613" y="251.0" />
-              <point x="415.0" y="251.0" />
-              <point x="0.0" y="16.0" />
-            </edge>
-            <edge source="com.evan.factory.absfactory.MainClass" target="com.evan.factory.absfactory.BJPizzaFactory">
-              <point x="36.333333333333314" y="-16.0" />
-              <point x="445.29967948717945" y="251.0" />
-              <point x="577.0" y="251.0" />
-              <point x="0.0" y="16.0" />
-            </edge>
-            <edge source="com.evan.factory.absfactory.BJpepperPizza" target="com.evan.factory.absfactory.Pizza">
-              <point x="0.0" y="-16.0" />
-              <point x="598.4663461538462" y="62.0" />
-              <point x="452.2884615384615" y="62.0" />
-              <point x="25.3125" y="16.0" />
-            </edge>
-            <edge source="com.evan.factory.absfactory.LDPizzaFactory" target="com.evan.factory.absfactory.Pizza">
-              <point x="18.00000000000003" y="-16.0" />
-              <point x="269.6923076923077" y="164.0" />
-              <point x="304.5" y="164.0" />
-              <point x="304.5" y="72.0" />
-              <point x="411.7884615384615" y="72.0" />
-              <point x="-15.1875" y="16.0" />
-            </edge>
-            <edge source="com.evan.factory.absfactory.LDPizzaFactory" target="com.evan.factory.absfactory.LDCheesePizza">
-              <point x="-17.99999999999997" y="-16.0" />
-              <point x="233.69230769230768" y="174.0" />
-              <point x="225.49999999999997" y="174.0" />
-              <point x="0.0" y="16.0" />
-            </edge>
-            <edge source="com.evan.factory.absfactory.LDPizzaFactory" target="com.evan.factory.absfactory.AbsFactory">
-              <point x="54.00000000000003" y="-16.0" />
-              <point x="305.6923076923077" y="174.0" />
-              <point x="350.8589743589743" y="174.0" />
-              <point x="-43.5" y="16.0" />
-            </edge>
-            <edge source="com.evan.factory.absfactory.LDCheesePizza" target="com.evan.factory.absfactory.Pizza">
-              <point x="0.0" y="-16.0" />
-              <point x="225.49999999999997" y="62.0" />
-              <point x="401.6634615384615" y="62.0" />
-              <point x="-25.3125" y="16.0" />
-            </edge>
-            <edge source="com.evan.factory.absfactory.LDPizzaFactory" target="com.evan.factory.absfactory.LDpepperpizza">
-              <point x="-53.99999999999997" y="-16.0" />
-              <point x="197.69230769230768" y="174.0" />
-              <point x="68.5" y="174.0" />
-              <point x="0.0" y="16.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.1" x="412.0" y="154.0" />
-          <SelectedNodes>
-            <node>com.evan.factory.absfactory.AbsFactory</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/absfactory/AbsFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/absfactory/LDPizzaFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" selection-start-line="8" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/absfactory/BJPizzaFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" selection-start-line="9" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/prototype/demo/Sheep.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="5" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/prototype/improve/Sheep.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="25" column="5" selection-end-line="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/prototype/demo/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="33" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/BJOrderPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" selection-start-line="9" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/BJpepperPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="37" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/LDOrderPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" selection-start-line="8" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/MainClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" selection-start-line="8" selection-end-line="13" selection-end-column="1" />
-          <folding>
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/factorymethod/OrderPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" selection-start-line="11" selection-end-line="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/prototype/improve/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/factory/absfactory/MainClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.evan.builder.improve.Client">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.evan.builder.improve.Client</OriginalElement>
-          <nodes>
-            <node x="10.5" y="164.0">com.evan.builder.improve.HouseDiector</node>
-            <node x="160.5" y="164.0">com.evan.builder.improve.HighBUilding</node>
-            <node x="61.377777777777766" y="246.0">com.evan.builder.improve.Client</node>
-            <node x="310.5" y="164.0">com.evan.builder.improve.CommonHouse</node>
-            <node x="166.125" y="82.0">com.evan.builder.improve.Builder</node>
-            <node x="141.45833333333331" y="0.0">com.evan.builder.improve.House</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.evan.builder.improve.Client" target="com.evan.builder.improve.HouseDiector">
-              <point x="0.0" y="-16.0" />
-              <point x="105.37777777777777" y="226.0" />
-              <point x="108.0" y="226.0" />
-              <point x="32.5" y="16.0" />
-            </edge>
-            <edge source="com.evan.builder.improve.HouseDiector" target="com.evan.builder.improve.House">
-              <point x="-43.33333333333334" y="-16.0" />
-              <point x="32.16666666666666" y="144.0" />
-              <point x="51.18194444444444" y="144.0" />
-              <point x="51.18194444444444" y="62.0" />
-              <point x="165.75833333333333" y="62.0" />
-              <point x="-16.19999999999999" y="16.0" />
-            </edge>
-            <edge source="com.evan.builder.improve.HighBUilding" target="com.evan.builder.improve.Builder">
-              <point x="0.0" y="-16.0" />
-              <point x="11.875" y="16.0" />
-            </edge>
-            <edge source="com.evan.builder.improve.Client" target="com.evan.builder.improve.House">
-              <point x="-35.19999999999999" y="-16.0" />
-              <point x="70.17777777777778" y="226.0" />
-              <point x="0.0" y="226.0" />
-              <point x="0.0" y="52.0" />
-              <point x="149.5583333333333" y="52.0" />
-              <point x="-32.400000000000006" y="16.0" />
-            </edge>
-            <edge source="com.evan.builder.improve.HouseDiector" target="com.evan.builder.improve.Builder">
-              <point x="0.0" y="-16.0" />
-              <point x="75.5" y="134.0" />
-              <point x="178.0" y="134.0" />
-              <point x="-35.625" y="16.0" />
-            </edge>
-            <edge source="com.evan.builder.improve.CommonHouse" target="com.evan.builder.improve.Builder">
-              <point x="0.0" y="-16.0" />
-              <point x="372.0" y="144.0" />
-              <point x="249.25" y="144.0" />
-              <point x="35.625" y="16.0" />
-            </edge>
-            <edge source="com.evan.builder.improve.Builder" target="com.evan.builder.improve.House">
-              <point x="-31.666666666666686" y="-16.0" />
-              <point x="0.0" y="16.0" />
-            </edge>
-            <edge source="com.evan.builder.improve.Client" target="com.evan.builder.improve.CommonHouse">
-              <point x="17.600000000000023" y="-16.0" />
-              <point x="122.97777777777779" y="216.0" />
-              <point x="341.25" y="216.0" />
-              <point x="-30.75" y="16.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.3000000000000003" x="321.0" y="129.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/builder/demo/AbstractHouse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/builder/demo/CommonHouse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="22" selection-end-column="5" />
-          <folding>
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/builder/demo/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/builder/improve/House.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/builder/improve/Builder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="33" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/builder/improve/CommonHouse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="13" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/builder/improve/HighBUilding.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="14" selection-end-line="24" />
-          <folding>
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/builder/improve/HouseDiector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -1236,38 +621,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/adapter/classAdapter/Voltage220V.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="1" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/adapter/classAdapter/Voltage5V.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/adapter/classAdapter/VoltageAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/adapter/classAdapter/Phone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="16" column="9" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/adapter/classAdapter/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -1277,6 +634,7 @@
           <caret selection-end-line="31" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
             <element signature="e#425#426#0" expanded="true" />
           </folding>
         </state>
@@ -1284,7 +642,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/adapter/objectAdapter/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
+        <state relative-caret-position="176">
           <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1301,65 +659,346 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/adapter/interfaceAdapter/AbsAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
+        <state relative-caret-position="638">
           <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/adapter/interfaceAdapter/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-          <folding>
-            <element signature="e#406#407#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="286">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/adapter/springmvcSouce/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
+        <state relative-caret-position="506">
           <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-          <folding>
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#395#396#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-            <element signature="e#587#588#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/adapter/springmvcSouce/HandlerAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
+        <state relative-caret-position="176">
           <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding>
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#494#495#0" expanded="true" />
-            <element signature="e#554#555#0" expanded="true" />
-            <element signature="e#653#654#0" expanded="true" />
-            <element signature="e#711#712#0" expanded="true" />
-            <element signature="e#758#759#0" expanded="true" />
-            <element signature="e#816#817#0" expanded="true" />
-            <element signature="e#921#922#0" expanded="true" />
-            <element signature="e#991#992#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/adapter/springmvcSouce/DispatchServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
+        <state relative-caret-position="1012">
           <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#292#308#0" expanded="true" />
             <element signature="e#1331#1332#0" expanded="true" />
             <element signature="e#1392#1393#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/prototype/improve/Sheep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="25" column="5" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/prototype/improve/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/adapter/classAdapter/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="9" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/decorator/Chocolate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/decorator/CoffeeBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/decorator/LatteCoffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/decorator/other/TeaDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding>
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/decorator/other/DrinkComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/decorator/other/WaterComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding>
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/decorator/other/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="42" lean-forward="true" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/decorator/other/SugarDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding>
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/decorator/other/DrinkDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="8" selection-start-line="8" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/decorator/Coffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/decorator/Drink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/decorator/BlackCoffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/proxy/dynamicproxy/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/proxy/cglib/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="75" selection-start-line="10" selection-start-column="75" selection-end-line="10" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/proxy/cglib/TeacherDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/proxy/cglib/CglibProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="38" column="42" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/proxy/dynamicproxy/MyTransaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" />
+          <folding>
+            <element signature="e#101#102#0" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/proxy/dynamicproxy/DynamicProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/proxy/dynamicproxy/ITeacherDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/proxy/dynamicproxy/TeacherDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/state/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="65" column="5" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/state/CanRaffleState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/adapter/classAdapter/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/adapter/classAdapter/Voltage5V.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/adapter/classAdapter/Voltage220V.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="1" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/brige/Brand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/brige/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/brige/FolderPhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/builder/demo/AbstractHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/builder/demo/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/builder/demo/CommonHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/observer/BaiduSite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/observer/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/observer/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/observer/WeatherData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/observer/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/evan/observer/SinaSite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
         </state>
       </provider>
     </entry>

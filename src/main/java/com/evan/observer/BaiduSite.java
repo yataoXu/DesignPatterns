@@ -1,7 +1,7 @@
 package com.evan.observer;
 
 /**
- * @Description
+ * @Description 具体观察者
  * @ClassName Baidu
  * @Author Evan
  * @date 2019.12.17 23:04
